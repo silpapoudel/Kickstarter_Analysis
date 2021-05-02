@@ -10,3 +10,5 @@
 
 - During the month of May and June the success and fail rate is higher. There are more success rates than both fail and cancel rate
 - We can also create bar graph 
+
+https://github.com/silpapoudel/Kickstarter_Analysis/blob/2dcfb014524f93392707fe8f1e62d5a77b306b7f/Outcomes_vs_Goals.png 
