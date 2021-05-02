@@ -12,3 +12,5 @@
 - We can also create bar graph 
 
 https://github.com/silpapoudel/Kickstarter_Analysis/blob/2dcfb014524f93392707fe8f1e62d5a77b306b7f/Outcomes_vs_Goals.png 
+
+https://github.com/silpapoudel/Kickstarter_Analysis/blob/5cbfc5ce5d3b888978ad320fa2a94f86779327e4/Theater_Outcomes_vs_Launch.png
